@@ -1,14 +1,14 @@
 # Coffee-Shop-Sales-Dashboard
 Sales and Revenue Analysis Dashboard using Power BI and Excel.
-# ☕ Coffee Shop Sales & Revenue Analysis Dashboard
+#  Coffee Shop Sales & Revenue Analysis Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing coffee shop sales data using Power BI and Excel. The dashboard provides insights into revenue trends, product performance, customer purchasing behavior, payment methods, and sales patterns to support data-driven business decisions.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze coffee shop sales and revenue data.
 * Track key business performance indicators (KPIs).
@@ -19,7 +19,7 @@ This project focuses on analyzing coffee shop sales data using Power BI and Exce
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Microsoft Power BI
 * Microsoft Excel
@@ -29,7 +29,7 @@ This project focuses on analyzing coffee shop sales data using Power BI and Exce
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 The dataset contains coffee shop transaction records with the following fields:
 
@@ -45,7 +45,7 @@ The dataset contains coffee shop transaction records with the following fields:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 ### KPI Cards
 
@@ -75,29 +75,20 @@ The dataset contains coffee shop transaction records with the following fields:
 * Month
 * Payment Method
 
----
-
-## 🔍 Key Insights
-
-* Identified the highest revenue-generating coffee products.
-* Analyzed customer payment preferences.
-* Determined peak sales periods during the day.
-* Evaluated weekday and monthly sales performance.
-* Generated business insights for improving sales strategy.
+--
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 * Coffee_sales.xlsx
 * Coffee Shop Sales.pbix
 * Coffee_Shop_Sales_Dashboard.pdf
-* Internship_Report.pdf
-* Dashboard Screenshots
+  
 
 ---
 
-## 🚀 Project Outcome
+## Project Outcome
 
 This project helped develop practical skills in:
 
@@ -109,9 +100,3 @@ This project helped develop practical skills in:
 * Insight Generation
 
 ---
-
-## 👩‍💻 Author
-
-**Harini G S**
-B.E. Computer Science Engineering
-Data Analytics & Power BI Enthusiast
